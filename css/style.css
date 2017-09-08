@@ -1,0 +1,18 @@
+/* YOUR CUSTOM STYLES */
+
+html,
+body,
+.view {
+    height: 100%;
+    
+}
+
+.view {
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    
+}
